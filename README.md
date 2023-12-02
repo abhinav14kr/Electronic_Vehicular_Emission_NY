@@ -1,3 +1,14 @@
-1. Analyzing the GHG and petroleum reduction of Electronic Vechiles by studying the patterns in New York with Data Mining techniques
-2. Cluster analysis to find out how different EV types and manufacturers perform in terms of reduction
-3. The data is extrapolated in one of the busiest city to identify trends, patterns of Electronic Vehicles with descriptive and prescriptive analysis to apply to broader context 
+**Project Title:**
+Analyzing EV Impact on GHG & Petroleum Reduction in NYC through Data Mining
+
+**Objectives:**
+Perform cluster analysis to assess EV types and manufacturers in emissions reduction.
+Extrapolate urban data to identify trends applicable on a broader scale.
+
+**Techniques:**
+Cluster analysis to evaluate EV performance.
+Descriptive and prescriptive analysis for broader insights.
+
+
+
+
