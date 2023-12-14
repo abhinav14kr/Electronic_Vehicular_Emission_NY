@@ -1,4 +1,4 @@
-Data _through_Date,Submitted_Date,Make,Model,County,ZIP,EV_Type,Transaction_Type,Annual_GHG_Emissions_Reductions_(MT_CO2e),Annual_Petroleum_Reductions_(gallons),Rebate _Amount_(USD)
+Data_through_Date,Submitted_Date,Make,Model,County,ZIP,EV_Type,Transaction_Type,Annual_GHG_Emissions_Reductions_(MT_CO2e),Annual_Petroleum_Reductions_(gallons),Rebate_Amount_(USD)
 2/29/2020,1/13/2018,Ford,Focus,Westchester,10598,BEV,Lease,2.76,592.89,1700
 2/29/2020,9/25/2017,Ford,Focus,Oneida,13601,BEV,Lease,2.76,592.89,1700
 2/29/2020,4/26/2018,Ford,Focus,Suffolk,11776,BEV,Lease,2.76,592.89,1700
